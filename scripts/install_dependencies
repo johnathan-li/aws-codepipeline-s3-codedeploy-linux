@@ -1,3 +1,4 @@
 #!/bin/bash
 yum install -y httpd
+yum install php php-common php-opcache php-mcrypt php-cli php-gd php-curl php-mysqlnd
 
